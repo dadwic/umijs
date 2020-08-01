@@ -61,6 +61,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/umijs/umi.git"
+    "url": "git+https://github.com/dadwic/umijs.git"
   }
 }
