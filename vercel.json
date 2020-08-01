@@ -5,7 +5,7 @@
   "builds": [
     {
       "src": "package.json",
-      "use": "@now/static-build",
+      "use": "@vercel/static",
       "config": {
         "distDir": "dist"
       }
@@ -18,5 +18,5 @@
   "github": {
     "enabled": false
   },
-  "alias": ["umijs.org"]
+  "alias": ["umijs.ir"]
 }
